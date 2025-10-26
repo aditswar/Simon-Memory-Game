@@ -8,7 +8,7 @@ A browser-based version of the classic **Simon memory game**, built using **Java
 - Simple UI with animations and sound  
 
 ### Known Issues (Work in Progress)
-- Sometimes the sequence resets incorrectly after a mistake  
+- Sometimes the sequence resets incorrectly after a mistake - fixed
 - Occasional delay in button animations  
 
-I’ll be updating the project as I fix these bugs and improve the UI.  
+
